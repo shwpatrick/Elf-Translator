@@ -37,3 +37,10 @@
 
 - 在 PIL 版本更新後，ImageDraw 對象中的 textsize 方法被替換為 textlength 和 textbbox，請在使用時確保PIL版本不會過舊
 
+
+### Disclaimer
+This project is provided "as-is" without any warranty. Use it at your own risk. The author is not responsible for any damages or issues that may arise from using this code.
+
+### Disclaimer
+This project includes third-party resources, and the author makes no warranties regarding their accuracy or safety. Use these resources at your own risk.
+
